@@ -2,6 +2,6 @@
 Real time communication + file transfer
 
 Contributors:
-k4k1 - Nothing
-slashwarm - the best
-hentesoposszum - semmit
+k4k1 - File transfer
+slashwarm - Authentication
+hentesoposszum - Communication
